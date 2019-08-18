@@ -10,7 +10,7 @@ public class FormatacaodeDados {
         String Telefone = "47256251536";
         String CPF = "69589548810";
         String Placa = "ABC2357";
-        String palavra = "Comentarista";
+        String palavra = "macarrao";
         char letra = 'a';
 
         System.out.println("======================");
